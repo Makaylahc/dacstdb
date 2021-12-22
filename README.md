@@ -1,5 +1,7 @@
 # Draw A Computer Scientist Database Frontend
 
+Created by Makaylah Cowan and Erik Cohen
+
 Heroku server : [dacst.herokuapp.com](https://dacst.herokuapp.com/)
 
 Steps for rerunning server:
