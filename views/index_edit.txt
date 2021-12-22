@@ -1,0 +1,91 @@
+	<style>
+		nav{
+			background-color: black;
+			padding: 40px;
+			text-align: center;
+			font-size: 40px;
+		}
+
+		nav a{
+			color: white;
+			text-decoration: none;
+			margin: -10px 80px 0 0;
+			
+		}
+
+		form{
+			text-align: center;
+			padding: 50px; 
+			color: brown;
+			font-size: 25px;
+		}
+
+		p{
+			font-size: 20px;
+			padding-right: 250px;
+			padding-left: 250px;
+			text-align: justify;
+		}
+		.scrolling-wrapper {
+			overflow-x: scroll;
+			overflow-y: hidden;
+			white-space: nowrap;
+			-webkit-overflow-scrolling: touch;
+		}
+  		.card {
+    		display: inline-block;
+  		}
+		ul {
+  			list-style-type: none;
+  			margin: 0;
+  			padding: 0;
+		}
+		li {
+  			float: left;
+		}
+		a {
+			display: block;
+			padding: 8px;
+		}
+
+		form {
+    		display: inline;
+		}
+	</style>
+
+
+
+	<nav class="navbar navbar-expand-sm navbar-dark bg-primary mb-3">
+		<nav class="navbar navbar-expand-sm navbar-dark bg-primary mb-3"></nav>
+		<a class="navbar-brand" href="#">
+			DACST 
+		</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-0" aria-controls="navbar-0" aria-expanded="false" aria-label="Toggle Navigation">
+		  <span class="navbar-toggler-icon">
+		  </span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbar-0">
+		  <div class="navbar-nav">
+			<a class="nav-item nav-link active" href="/">
+			  DACST Query
+			  <span class="sr-only">
+				(current)
+			  </span>
+			</a>
+			<a class="nav-item nav-link" href="/tag">
+			  Tag Images
+			</a>
+			<a class="nav-item nav-link" href="https://forms.gle/wao853kdLwar6d3h9">
+			  Take the DACST
+			</a>
+			<a class="nav-item nav-link" href="/about">
+			  About DACST
+			</a>
+		  </div>
+		  <div class="navbar-nav ml-auto">
+			<a class="nav-item nav-link" href="/contact">
+			  Contact Us
+			</a>
+		  </div>
+		</div>
+	  </nav>

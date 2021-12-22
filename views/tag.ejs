@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tag DACST Images</title>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-themes@^1.0.2/dist/ectype/index.min.css">
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<Style>
+	.navbar-collapse.in {
+		display: block !important;
+	}
+	#colLeft {
+			float: left;
+	}
+	#colwrap{
+		overflow:hidden;   
+	}
+	#colCenter {
+		left: 50%;
+	}
+	#colRight {
+		float: right;
+	}
+	form {
+		display: inline;
+	}
+</Style>
+</head>
+<body>
+<script src="/views/js/carasoul_slide.js"></script>
+
+<!--navbar-->
+<nav class="navbar navbar-expand-sm navbar-dark bg-primary mb-3">
+	<a class="navbar-brand" href="#">DACST </a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-0" aria-controls="navbar-0" aria-expanded="false" aria-label="Toggle Navigation">
+	  <span class="navbar-toggler-icon">
+	  </span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbar-0">
+	  <div class="navbar-nav">
+		<a class="nav-item nav-link active" href="/">
+		  DACST Query
+		  <span class="sr-only">
+			(current)
+		  </span>
+		</a>
+		<a class="nav-item nav-link" href="/tag">
+		  Tag Images
+		</a>
+		<a class="nav-item nav-link" href="https://forms.gle/wao853kdLwar6d3h9" target="_blank" rel="noopener noreferrer">
+		  Take the DACST
+		</a>
+		<a class="nav-item nav-link" href="/about">
+		  About DACST
+		</a>
+	  </div>
+	  <div class="navbar-nav ml-auto">
+		<a class="nav-item nav-link" href="/contact">
+		  Contact Us
+		</a>
+	  </div>
+	</div>
+  </nav>
+
+
+	<!--broken but should be accesed from imagelink anyway-->
+	<legend>Tag Image #<%- image_num%></legend> 
+	<center> link : <a href="<%- imagelink %>" target="_blank"><%- imagelink %></a></center>
+
+		<%- image_table %>
+
+		<div class="bg-white text-dark border rounded-sm p-4 mb-3">
+		<form method='GET' action="/teleport">
+			<label for="idnum">Jump to Picture: </label>
+			<input id="colCenter" name="idnum" type="search" placeholder="none specified" class="form-control input-md">
+			<button id="colCenter" name="Submit" class="btn btn-primary mx-2">Jump</button>
+		</form>
+		<form method='GET' action="/prev_image">
+				<button id="colLeft" name="Submit" class="btn btn-primary">Previous Image</button>
+		</form>
+		<form method='GET' action="/next_image">
+			<button id="colRight" name="Submit" class="btn btn-primary">Next Image</button>
+		</form>
+		</div>
+
+	<div class="bg-white text-dark border rounded-sm p-4 mb-3">
+	<form method='GET' action="/update-tags">
+				<!-- Search input-->
+				<div class="form-group">
+					<label class="col-sm-4 control-label" for="tags">Tags(seperated by ", ")</label>
+					  <input id="tags" name="tags" type="search" placeholder="these, are, tags" class="form-control input-md">
+				  <!-- Button -->
+					  <button id="Submit" name="Submit" class="btn btn-primary">Add</button>
+				  </div>
+	</form>
+
+	<form method='GET' action="/remove-tags">
+		<!-- Search input-->
+		<div class="form-group">
+			<label class="col-sm-4 control-label" for="removetags">Tags to remove(seperated by ", ")</label>
+			  <input id="removetags" name="removetags" type="search" placeholder="none specified" class="form-control input-md">
+		  <!-- Button -->
+			  <button id="Submit" name="Submit" class="btn btn-primary">Remove</button>
+		  </div>
+	</form>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	content="width=device-width, initial-scale=1.0">
+	<title>DACST Database</title>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-themes@^1.0.2/dist/ectype/index.min.css">
+	<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+	<Style>
+		.navbar-collapse.in {
+    		display: block !important;
+		}
+	</Style>
+</head>
+<body>
+	<script src="/views/js/carasoul_slide.js"></script>
+	
+<!--navbar-->
+	<nav class="navbar navbar-expand-sm navbar-dark bg-primary mb-3">
+		<a class="navbar-brand" href="#">DACST </a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-0" aria-controls="navbar-0" aria-expanded="false" aria-label="Toggle Navigation">
+		  <span class="navbar-toggler-icon">
+		  </span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbar-0">
+		  <div class="navbar-nav">
+			<a class="nav-item nav-link active" href="/">
+			  DACST Query
+			  <span class="sr-only">
+				(current)
+			  </span>
+			</a>
+			<a class="nav-item nav-link" href="/tag">
+			  Tag Images
+			</a>
+			<a class="nav-item nav-link" href="https://forms.gle/wao853kdLwar6d3h9" target="_blank" rel="noopener noreferrer">
+			  Take the DACST
+			</a>
+			<a class="nav-item nav-link" href="/about">
+			  About DACST
+			</a>
+		  </div>
+		  <div class="navbar-nav ml-auto">
+			<a class="nav-item nav-link" href="/contact">
+			  Contact Us
+			</a>
+		  </div>
+		</div>
+	  </nav>
+
+	<!--- Query Database here-->
+	<form method='GET' action="/getdata">
+		<legend>Query the DACST database</legend>
+		<div class="bg-white text-dark border rounded-sm p-4 mb-3">
+			<div class="form-row">
+			<div class="form-group col-md-6">
+				<!-- Results for-->
+			<label>Select Student Gender</label>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="stu_genderF" id="stu_genderF" type="checkbox" value = "F">
+					<label class="custom-control-label" for="stu_genderF">Student Gender: Female</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="stu_genderM" id="stu_genderM" type="checkbox" value = "M">
+					<label class="custom-control-label" for="stu_genderM">Student Gender: Male</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="stu_genderN" id="stu_genderN" type="checkbox" value = "N/A">
+					<label class="custom-control-label" for="stu_genderN">Student Gender: Non-Binary</label>
+				</div>
+			<br>
+			<br>
+
+			<label>Select Depicted Gender</label>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="image_gender" id="image_gender" type="checkbox" value = "F">
+					<label class="custom-control-label" for="image_gender">
+						Gender Depicted: Female
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="image_gender1" id="image_gender1" type="checkbox" value = "M">
+					<label class="custom-control-label" for="image_gender1">
+					Gender Depicted: Male
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="image_gender2" id="image_gender2" type="checkbox" value = "N/A">
+					<label class="custom-control-label" for="image_gender2">
+					Gender Depicted: Non-Binary
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="image_gender3" id="image_gender3" type="checkbox" value = "N/A">
+					<label class="custom-control-label" for="image_gender3">
+					Gender Depicted: N/A
+					</label>
+				</div>
+			<br>
+			<br>
+
+			<label>Select Test Administration</label>
+			<div class="custom-control custom-radio">
+				<input class="custom-control-input" id="administration" type="radio" name="administration" value="0">
+				<label class="custom-control-label" for="administration">
+				Administration : Pre
+				</label>
+			</div>
+			<div class="custom-control custom-radio">
+				<input class="custom-control-input" id="administration1" type="radio" name="administration1" value="1">
+				<label class="custom-control-label" for="administration1">
+				Administration : Post
+				</label>
+			</div>
+		</div>
+		<br>
+		<br>
+
+			<!-- Filter returned Data-->
+		<div class="form-group col-md-6">
+			<label>Field Filter<br><i>return results for:</i> </label>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_semester" id="proj_semester" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_semester">
+						Filter: Semester
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_administration" id="proj_administration" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_administration">
+						Filter: Administration
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_class" id="proj_class" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_class">
+						Filter: Class
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_stu_code" id="proj_stu_code" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_stu_code">
+						Filter: Student Code
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_field" id="proj_field" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_field">
+						Filter: Words that describe a Computer Scientist
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_cs_day" id="proj_cs_day" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_cs_day">
+						Filter: A Typical CS Day
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_id" id="proj_id" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_id">
+						Filter: ID
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_code" id="proj_code" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_code">
+						Filter: Student Code
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_gender" id="proj_gender" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_gender">
+						Filter: Student Gender
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_martin_score" id="proj_martin_score" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_martin_score">
+						Filter: Image Martin Score
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_p_gender" id="proj_p_gender" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_p_gender">
+						Filter: Depicted Gender
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_positive" id="proj_positive" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_positive">
+						Filter: Was the image positive?
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_photo" id="proj_photo" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_photo">
+						Filter: Photo Link
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_tag" id="proj_tag" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_tag">
+						Filter: Image Tags
+					</label>
+				</div>
+				<div class="custom-control custom-checkbox">
+					<input class="custom-control-input" name="proj_image_action" id="proj_image_action" type="checkbox" value = "1">
+					<label class="custom-control-label" for="proj_image_action">
+						Filter: Image Action
+					</label>
+				</div>
+				<input class="form-check-input" id="cs" name="cs" type="checkbox">
+				<label class="form-check-label" for="cs"> Include Real Life Computer Scientist Information</label>
+			</div>
+
+
+		</div>
+			<label class="col-md-6 control-label" for="tags">Tags</label>
+			<input id="tags" name="tags" type="search" placeholder="none specified" class="form-control input-md">
+
+		<!-- Button -->
+		<button id="Submit" name="Submit" class="btn btn-primary mt-3 mb-0" type="submit">
+			Submit
+		</button>
+		</div>
+		</form>
+		<!-- DACST IMAGE CARASOUL-->
+		<div class="pa-carousel-widget" style="width:100%; height:500px; display:none; margin-left: auto; margin-right: auto;"
+		  data-link="https://photos.app.goo.gl/pMtsjDwSDgncozHv7"
+		  data-title="CS Pictures of a Computer Scientist">
+		  <object class="cropped1" data="https://lh3.googleusercontent.com/rX09S_SaikrfsjPs5wX8dVmQuVikxHipzcgqcYyvSFoEZW6Am1uMRUn9ckpdsCq3LiC8Gmi_kJS-kmYR_eGpE55a6tCVeU7W18VFSFZ-0JEnN4EqCw9NcKCGeVNsAZTxocAdC7nicXw=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/yq5cb3O5wmct7KUW2pIHtjdF9Oqad1ZvcgfIR3oeyEoSc0DHfRiSniDlXRoJgiW-F_srZ5qWVJkdJPBEX2I3wEtvV63NgDHPyeg5m0OxcRQB0jOZe-IiCabZ-JWmXwvAywy53k0busI=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/VBqDy8PNdc991YucTkB2y1ovdRlZFVNHOpvPnyDWWrf6WD2LQz9GcgcDYrCLkFgm46FT7jv-EGrWBiAmr3BkwuHN5fwKImTvKKF9D-A_q-VWUVIKUYGWbp2DqSbHZyCSEBDiAXKfCaM=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/vsJ3Ej5MuewN0FFGxx9l9AIVp0Kc9UCxx-NZONzz4vS2TdCU4zrusuVaUDsISCAKIHvibTo4w6TsFqHf4pBesTKM7pNBKPiWmHF6Iafzv7ZlIXffqDT9cTwpEYIPLD7_6woroaKL0i4=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/kBLE00ISixwToEHpro1Cm8NOZpiT0oPsd0pclJHrjooxpWM9JtN82yyUdJmnDJVfwscSk6mNvcjRGTBZRrJT9wvesqN2chva-ihte8keMuFXqfDOTPYHbFb8dBh8zOXJ97W0KOS0C_k=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/Y5igEUCY841320Ih45i8Gb9B2CeQ4CqtVaP72tU9vfm0J4fs6k7WlQL7hBtvGW9aoEJ_q7GTFyEZGjezLeyuCyc6FeOv0oeT09KiHQ-gVcBYwfuPIievRN4hLdjtmbEd4kmI4IwmQNw=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/BERxxbzp20xMT2lVlfXiagHgwEju_I8jdt1_bRUQDUXMVeorOB427BTm3vNYy8Dm8E79PWzdFWu0crC14nTfbCigAY559UPfnKetg1vhc05xMzHrWTEoLneLBt9XVIj_rXVPonLPHM4=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/bhdx9QBB3bLKTNI_Nw4WDKAEiNl_oq37LOYic9_PMtKvHGzjx0CH94xBUpgbqIixcs_IkjF9izgPh8XAO3xHRiGW3GqRqXrTohhaFlmu-WtlMx0qdr8ufIeKNSW7wZfNTAk0ZZz-lG0=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/yL__NEOWMKRD7ts5NSF1PIJgfOYtfJASr323M9XdRXkbUO_UqcM4Yar-meCuRbP-mePE7s-0r7VzyxcYbntEHIMfC1o41qWdIJ9P3qWxbCZM2-7RxqZFKhTX0ipTegw9RNyTn78uC8I=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/uH_x_uxY3Z4lmr93uO01HCd3V1IPk4K94PaWqsf-U4aP6AF3T2Rx5VpMxc5qzovr6FG-L0BfwzDKNvWJ2dqpcf_v5xCUQq2jz0SzdMg4fFAvr6ecVD1f8e0IelPfSqn2_QCLLqiLN1g=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/DL8rt6xjU_NenIhwovg3_4Q_UhPcGvR9W2i5hCqu86KgLeX0lHR_wI8J8q3dTOyGlc-ypHK_e_VxIqsF7mfDa6TgRu2pTBnVR7RWwPylGMP9bLv00pWQ94QDk18KJUiijpdXS9TJCAg=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/Hd7SK9CF1t04YWAXAiACqy5pVgI_iIJ8mYIoodiT5QGlty2cyxMPtwGundpPnBy9Mkg2-RUNgXKrrE2jwwE0GlhSIaLlUOxYYc373mR1EVmrYmlJ9zGaxf4f9J3qIh_mk1XQ07XyWWs=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/jyDTqkDZ5dGBohVMbvD_3t4NYSLtDC-DiKH3k0vrzoE-qrt7SU8tSc_08lv2H6PVwIAAJ_aZdUDDYs0LdjZ14fsZZKrtJZKNrpDQ9Wxh4kKJIQ4Gx9zWbQmXMmPxiqobWMr39jWIfTA=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/rpGkwv9nZHPuAlymsPWxOgmk0I40SZuBbguAi5QGeOlwWe37C0r-2h-EYGTiyZqQ4dyS-Au0Y4rMvYCELo8KvvgQN4CdBOXmwGvoRyfq-RKh6P_9ox4D3MtvfZBCtv69qpwsvZZfEnE=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/VLt_n66JnwgpsoMttyRO5jb9w6dTnBLlyxkCna8YotaQjmANpF3EdloeKrVBoJnG0ozE4bJRmTHT3xyoDh0J2rGI09cm3j4ISlumTetEcZj5hiYfbnx7tAUq7GSFxO82NBlHMHia6QY=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/dtqTS3-hNUDjAlMe9Pk11sVRCE-XuVaw2L8XLTIiAHvCT5jtzDAfQSPozgvlTbEYqa_JO0Sb6c-oD4aXLBFsN4IJBfec6GI6a_udmSCP8pcTI43XyN8z57gFR0w6cAVbv1wX80JPd7g=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/t93zeZ5EXFWbKaCC40uY6SiWsOJ9BKts_TLa3Wn3HNvRUgDjnPzcbOUM-knM8-ZT7ugX5l5qJ6ng8I3Cf65vc9Qx5GquGIKrDvtTWx32I-H56VhcQaq0_lOuHjFvFf_WVQqDX4Elotg=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/Z-YmIMogUUJFqTxnBnfFzryEmZzqkypek_8a8CttXT2cq-Fmw9sa62RqJTyiY3KRgxwEOjzOXJuNbyNaZL6k0uIsPpr6LCE-Gu1veG7kcS6GzesCxjWIPxLoxDLuMIJRjkpeeAbf40I=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/iIfJExDFc_FI89PYSiK70VeleOZjcWfnn_Y_a5S5jSVUspmEUhdYSIP8HjMrekueKdVJAeEPQvb2CZTOl5bd3aD5fKzIUvoV6YC6oOnDHfCapjNJzVn0mruoIPn5MRWTNvRtCoXkxms=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/YieX5eIjeq-AYHpd6yp5uqvgD8UtICSSFBWu2pa8RwlcvcfFeAklF2wyAXoNcLZgnaPM-UTWTNz4sIHxkzCq_UR_fR888W19uCIBQv0SQvrf83o8p1Vi7YztzMwf8_HEl24L1GMR-pk=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/JbvuM3AV56464pXNVi6CSDWUoPZ70oLiIboG6Y82jcCMziBaDC0hxl06bsaF5eSacfbgzOFTQol9rk94KtU9q3HLXd5VjB_H64uKz0gk3m1kaHuelYRMltbbDkNgyKJ18x8qlBLuP2g=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/lKrRGhOos3EJ7OnfsQ_veWn7_HsW-Cq4gAVnLyt4W4CIPyv2pCvILEOflMHa_OCzvHUpri4vYyNsGN_NsVAdTUxJrOApDMYSf3ShV6_oAKRaqiQgMZ2b8oqnwVaarOzqQwvoGs8bLZI=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/9qtoKDu7X4RCi05qzvIuzf9wTJXKiasyxuyzUM0GEeZ3c0RQb7pmxPECUjdEHIQmaoIXmn5_-guxRJj_pbrQ5OuY17NdZ0gNla3lTkY5Ga4qZQZpFGcHINjmjqTw8fVbtkaoDTVAcF8=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/brVELFZZygnEshchw1Rp-oCYnGPW2pbNNp2vLmrRGjltE2dEnB8XSU7GG0QZAwVy3WDkcCPzXDMx8sqodF0Js8bLPhYhD2gKc__V0lGh6ecfer-nES1SsnuxS0v7q-wj66zC_Tl_Bmo=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/0imf5gZ-ymg4hxIOxm9H973qSxrR7CSN23yldDgh48EiL-r5WQMDuPJSVj9CRyZjgCIvAK5E1as_UJoqVnCAxygpa1fUU7llqs3Jo802NtS40KTb-eCAAEtm9goPsc0LEuFuB9jJbVo=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/2uNgyOMa70L53pSuWlAvn91PW2pEjpZLOYoPCsiPyAJKSUDkOkIgNCQ_rOzDyo3fBnA87uJbQ3b_qlRNiAKqnwFncSkVZRX5vPzIqvxqchGAwpiaf0Ypf7UaK0izJqzggdHcKl6deoQ=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/xH3qR-I93kytBW58CxfHMB6-kE6Pib6CoDRKtmTVaeEqTpldEoG56QbNXCZ7EeO00PU8RId9BBIGybIvf-DH18ydwizmjkOHAapRzvbbE9Vt7hyDOfcjTarVNxEkY2l8k0Ru_q6yxqY=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/lxJYs8ca_2X5IPyKFHcQGTMM-WI2rneMXl20UPOHLCEM0Ooydhmc0dF8OjibuQcL8WUNiD3DBymfahLZyMYXqGJvp-H9SzffBcLouGA64YMbKxbtSVTT96DnGdSVZKb713BAfpZP6O4=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/aRTvRAPM6RWJ-M8xvQlNXmXXftwCcB1PYrZjwg20Ouu6BeklPOxwoKG8js9fPyIPxoSzzmYtVNFOY8QOJmqWXKjB8iVUYx9dXPV8nqlB22QbUZbJLqvwbnAiPtyfqvpWkNkKth4Ej8w=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/ttqsXKvmRLDejXO-C8BvFMiDltd6g622A5l30kZ3zvy3I1lAJPu4KXlQC1nJwRGc7PhuexETZbwFhxpzn1eyq0bqJTalbQ7i17HSrgmoW_wVvsZTGwZGbEQ_uG3TKA0wDlBb9nyg8Cg=w1920-h1080"></object>
+		  <object data="https://lh3.googleusercontent.com/SqoVvjD91bEd8IdC4yimxKDCGrWikwjLWonnSQlwDBdAze-dxPhuunGBGjRfVfj-2HUL7Y1jk2lzwndupMLKloIpBqGzsrFoldMJN49cvV7nqMK9cl8H2J-zZnLQ4I6oKe5lnTkFp2Q=w1920-h1080"></object>
+		</div>
+</body>
+</html>
+

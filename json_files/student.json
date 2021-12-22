@@ -1,0 +1,2092 @@
+[
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"ZT038",
+     "Action":"The computer scientist is trying write the code for the robot she is trying to build.  She is trying to program commands for the joystick.",
+     "Word1":"practical",
+     "Word2":"creative",
+     "Word3":"intuitive",
+     "Word4":"",
+     "Typical_CS_Day.":"Eat, shower, go out with friends, talk family, cook, shop...",
+     "CS_ID":0,
+     "CODE":"ZT038",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"F",
+          "Positive_Image":"Y",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipN0TTk1DgkJ0RG37nVho86ziA8m0WJ1HlBAwunt?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"017",
+     "Action":"They are in an online space, they are coding",
+     "Word1":"young",
+     "Word2":"smart",
+     "Word3":"techy",
+     "Word4":"",
+     "Typical_CS_Day.":"write programs, designs images.websites, eats food",
+     "CS_ID":1,
+     "CODE":"017",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipO6jSHuixVo-ofWJSjth-7G-guhFW37anv5FrjM?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"022",
+     "Action":"In the picture below the computer scientist is seated, coding, He is trying to reate a game to play on the computer",
+     "Word1":"logic oriented and hard working",
+     "Word2":"open to collaboration and using online resources",
+     "Word3":"competent and proficient in problem solving",
+     "Word4":"",
+     "Typical_CS_Day.":"on a typical day a computer scientist compiles code, works with others, problem solves",
+     "CS_ID":2,
+     "CODE":"022",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"0",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipO8wWvTd8GScq-7H8o9izsuH2Gg1g9n0soO6tOt?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"DS036",
+     "Action":"The computer scientist is staring at a huge monitor with lines of code on it.  They are just standing and thinking.",
+     "Word1":"Perfectionist",
+     "Word2":"Driven",
+     "Word3":"Nerdy",
+     "Word4":"",
+     "Typical_CS_Day.":"Sits in front of a computer, thinks about code, goes to an offfice.",
+     "CS_ID":3,
+     "CODE":"DS036",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"3",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipN_Yxah7tyfNEWZgQma2k5xHeczKE24Mzc_B9S7?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"037",
+     "Action":"The computer scientist is writing code and looking at the results on another computer screen,  They are seated at a desk surrounded by other programmers doing the same thing.",
+     "Word1":"quick-thinker",
+     "Word2":"secluded",
+     "Word3":"tech-savvy",
+     "Word4":"",
+     "Typical_CS_Day.":"writes code, runs programs, fixes errors and runs again",
+     "CS_ID":4,
+     "CODE":"037",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipNWifCwFWkUHF5MPpxknmJ0rRx6Gr-AdQCjz7iQ?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"023",
+     "Action":"The computer scientist is using a coputer to write multiple lines of code the lines of code will work in a way to create a functional program",
+     "Word1":"If then statements",
+     "Word2":"Loops",
+     "Word3":"Forms",
+     "Word4":"",
+     "Typical_CS_Day.":"Edits code, froms codes, collaboration wiht other computer scientists",
+     "CS_ID":5,
+     "CODE":"023",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipN7wf2op0ZcMissyHCfAmFjJJR3Xc8mouYp_0Y4?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"040",
+     "Action":"He is stittig at his desk during normal office hours while working on various codes.  The project his is working on helps banks account for thier money and transactions.",
+     "Word1":"quiet shy",
+     "Word2":"intelligent",
+     "Word3":"organized",
+     "Word4":"",
+     "Typical_CS_Day.":"Play games, sleep, watch movies",
+     "CS_ID":6,
+     "CODE":"040",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Y",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipPKzrNlTEydakiVOTjXCvqE1TxMfH78-uHpTNnR?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"025",
+     "Action":"This computer scientist is at a computer coding.decrypting there a lot of people together working on similar tasks",
+     "Word1":"intelligent",
+     "Word2":"coder",
+     "Word3":"hardworker",
+     "Word4":"technology",
+     "Typical_CS_Day.":"goes to work, works well independently, reads news",
+     "CS_ID":7,
+     "CODE":"025",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipObTpSnH5o41LxJX-0-hVX-p2ujVpU66mHiJfqk?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"035",
+     "Action":"The computer scientist is typing code to program the computer",
+     "Word1":"Deatail-oriented",
+     "Word2":"Problem-solver",
+     "Word3":"Quantitative",
+     "Word4":"",
+     "Typical_CS_Day.":"Debugs isses, types code, collaborates",
+     "CS_ID":8,
+     "CODE":"035",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipO-N8WEajQc0x_XFtnUmMkk_s7amQ-lO4u4KjEZ?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"039",
+     "Action":"Sinning in his char with two large screens in from of him filled with code the computer scientist is typing furiously on the keyboard",
+     "Word1":"focused",
+     "Word2":"creative",
+     "Word3":"engaged",
+     "Word4":"",
+     "Typical_CS_Day.":"write new code, tests security of the code, correct flaws in the other code",
+     "CS_ID":9,
+     "CODE":"039",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"N",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipPsTDI5ShWYwQrzC6N5xFuBihVYJpL7D3o3nqvX?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"020",
+     "Action":"The computer scientist is writing code. His code programs a website, security, etc. for a company.",
+     "Word1":"busy",
+     "Word2":"focused",
+     "Word3":"intelligent",
+     "Word4":"creative",
+     "Typical_CS_Day.":"Creates and edits code used to make programs for a company",
+     "CS_ID":10,
+     "CODE":"020",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"3",
+          "Picture_Gender":"M",
+          "Positive_Image":"Y",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipPp0sSZv8rqTLSnP0_MjgBNHZNZTPsPUHa8kMHv?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"EB2018",
+     "Action":"Developing protocols He is creating ways to solve the problem,  Thinking: His is thinking about a problem he wants to solve and how to solve it.",
+     "Word1":"thoughtful",
+     "Word2":"creative",
+     "Word3":"patient",
+     "Word4":"",
+     "Typical_CS_Day.":"manage software, develop software, fix damaged software",
+     "CS_ID":11,
+     "CODE":"EB2018",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipP9P71poCsdiUdt26xu9uJm2LwCxOF3nPpjJ1Jn?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"013",
+     "Action":"The computer scientist is solving a problem by applying basic computer langauge.  The computer scientist is creating a program that plays a certain role.",
+     "Word1":"coding",
+     "Word2":"programming",
+     "Word3":"solutions",
+     "Word4":"",
+     "Typical_CS_Day.":"creating programs, solving problems using different computer languages.",
+     "CS_ID":12,
+     "CODE":"013",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipPWg9h78koLRnO1ayToognka1tP458xzoxurIaX?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"015",
+     "Action":"sitting at a computer in a dusty office scrolling quickly through lines of code and occasionally pausing to make edits Perhaps there is some sort of flow chart drawn on a white board.",
+     "Word1":"nerdy",
+     "Word2":"white",
+     "Word3":"male",
+     "Word4":"",
+     "Typical_CS_Day.":"writes new code, seeks to resolve issues in existing code, plans out how programs/system will operate",
+     "CS_ID":13,
+     "CODE":"015",
+     "Gender":"N/A",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Y",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipOeS8OLsFbl7GwxOOXKDw7foapJhmLlbETkt5sU?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"042",
+     "Action":"Discovering the algirithms and functions for problems that arise. problem solving different tasks creatively coding new ideas",
+     "Word1":"critical-thinker",
+     "Word2":"creative",
+     "Word3":"stressed",
+     "Word4":"",
+     "Typical_CS_Day.":"Innovate, dream of simplifying menial tasks using technology, drink coffee",
+     "CS_ID":14,
+     "CODE":"042",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipM_DUEejD9FgTV4a0ZmW1yKGG1mazdkDXkfocRm?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"024",
+     "Action":"the computer scientist is sitting at his desk and writing codes he is making a new app",
+     "Word1":"coding",
+     "Word2":"intelligent",
+     "Word3":"problem solving",
+     "Word4":"",
+     "Typical_CS_Day.":"writes computer programs, works a lot on thier phone or computer",
+     "CS_ID":15,
+     "CODE":"024",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Y",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipO6BvjX6muOlg23Pl7DzGSVIhaBykYYD8lpNH3w?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"033",
+     "Action":"The scientist is at a desk with multiple monitors working at a computer they are coding a program for work",
+     "Word1":"smart",
+     "Word2":"nerdy",
+     "Word3":"busy",
+     "Word4":"",
+     "Typical_CS_Day.":"wakes up and eats breakfast, goes to work, plays video games",
+     "CS_ID":16,
+     "CODE":"033",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipMYoxbSm0m4HffaVVgYe1dm5eHbhTQdDQ45LWEo?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"026",
+     "Action":"The computer scientist is sitting a a desk working at a computer,  they are working on writing a program",
+     "Word1":"smart",
+     "Word2":"good at math",
+     "Word3":"hard-working",
+     "Word4":"",
+     "Typical_CS_Day.":"coding, checking scripts, calculations",
+     "CS_ID":17,
+     "CODE":"026",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipNYjpmllJPh8S2NJ6PzOK74t7Jzj96AV6BuBMYr?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"034",
+     "Action":"this computer scientist is running algorithms to help predict potential outcomes of a sports game he as coded a softward that takes into account all potential variables and adjusts accordningly",
+     "Word1":"nerdy",
+     "Word2":"smart",
+     "Word3":"programming",
+     "Word4":"",
+     "Typical_CS_Day.":"fixes lines of code, writes new software, looks for ideas for new software",
+     "CS_ID":18,
+     "CODE":"034",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipPKZDhBycjOgbvdVf1vcIYq_Dx1qzrSjXqIvyOU?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"045",
+     "Action":"writing code then pulling code into the computer",
+     "Word1":"innovative",
+     "Word2":"detail-oriented",
+     "Word3":"industrious",
+     "Word4":"",
+     "Typical_CS_Day.":"think a bit, type a bit, drink some coffee, repeat",
+     "CS_ID":19,
+     "CODE":"045",
+     "Gender":"N/A",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipOryiRGAK-E0zix3IvG9OVxBiJ5XtThM1F9uDuE?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"030",
+     "Action":"The computer scientist is coding on his computer besde him on the white board he is figuring out a math problem to help him code.",
+     "Word1":"organized",
+     "Word2":"efficient",
+     "Word3":"multi-tasker",
+     "Word4":"",
+     "Typical_CS_Day.":"problem shoot, review work, plan ahead",
+     "CS_ID":20,
+     "CODE":"030",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipOfcXDALVnaUbtn50FFi-dow7CkoenyNcnwXz_5?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"016",
+     "Action":"working at a computer writing code to complete a project, I drew the computer with binary code but there are a lot of different langauges and possible uses for coding",
+     "Word1":"nerdy",
+     "Word2":"clever",
+     "Word3":"logical",
+     "Word4":"",
+     "Typical_CS_Day.":"code, collaborate, troubleshoot",
+     "CS_ID":21,
+     "CODE":"016",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipO0YZcbNyHbqNuocZmb-S1v1PiN2UqAyQ8CC4YT?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"ER031",
+     "Action":"The computer scientist in my picture is sitting in a chair and is coding on a computer",
+     "Word1":"creative",
+     "Word2":"problem-solving",
+     "Word3":"intelligent",
+     "Word4":"",
+     "Typical_CS_Day.":"code, report to boss, discuss projects with co-workers",
+     "CS_ID":22,
+     "CODE":"ER031",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipPFHTPQwEU6SHNtZDBjGJouRiXkbRcZ7m81EPQZ?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"M050",
+     "Action":"The comptuer scientist is solving problems and making the world a better, more efficient, place.  they are sitting at a computer and typing.",
+     "Word1":"intelligent",
+     "Word2":"fast typer",
+     "Word3":"enterprising",
+     "Word4":"",
+     "Typical_CS_Day.":"solving problems, writing code, building things",
+     "CS_ID":23,
+     "CODE":"M050",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipMSfHZZOHfIPYRJ_9FoC4SaZQxXYLcUCzsJXzVd?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"027",
+     "Action":"The computer scientist is reviewing his code from the previous day.  There was an issue with it that made the program not work that he's trying to fix.",
+     "Word1":"smart",
+     "Word2":"good-with-computers",
+     "Word3":"well-educated",
+     "Word4":"",
+     "Typical_CS_Day.":"watch TV, cook meals at home, go for a walk, drive to the store.",
+     "CS_ID":24,
+     "CODE":"027",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipMN1WJDOtmtVKPCO7ffot8N9fND4_YShXWMGvVr?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"028",
+     "Action":"He is programming a website by using code he is using a computer",
+     "Word1":"Immobile",
+     "Word2":"smart",
+     "Word3":"the-future",
+     "Word4":"",
+     "Typical_CS_Day.":"codes, programs, fixes network errors",
+     "CS_ID":25,
+     "CODE":"028",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Y",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipNN4LO2wn-cfADJg6vQyS2vxuraRL4cwXX_f7dO?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"AC019",
+     "Action":"The scientist is typing code the scientist might be correcting or modifying existant code or writing completely new code",
+     "Word1":"focused",
+     "Word2":"nerdy",
+     "Word3":"math/sciency",
+     "Word4":"",
+     "Typical_CS_Day.":"typing new code, debugging code, planning new code",
+     "CS_ID":26,
+     "CODE":"AC019",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"3",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipMFkPnGQWvnivUOg11wOgIMo__oHW1TftqA7MH7?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"012",
+     "Action":"this computer scientist is working a a code more specifically, he is writing a program capable of completeing work specific task",
+     "Word1":"solutions ",
+     "Word2":"language ",
+     "Word3":"algorithms",
+     "Word4":"",
+     "Typical_CS_Day.":"identify bugs, solve problems, code programs",
+     "CS_ID":27,
+     "CODE":"012",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"3",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipOza7alNXE35ebEQ_cfap_LBOjHp3yHClNQoM1w?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"041",
+     "Action":"the computer scientist is working on his or her computer the person is either coding or programming something",
+     "Word1":"tech-savvy",
+     "Word2":"smart",
+     "Word3":"hard working",
+     "Word4":"",
+     "Typical_CS_Day.":"I would assume that this computer scientist was five an certain task or project to complete through out the day he or she will work on that task and when he or she is finished another task will be given.",
+     "CS_ID":28,
+     "CODE":"041",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipOIfWQ-3Whnze-siDRDzZ6LFhGVM5-TzshK1NPS?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"014",
+     "Action":"developing softwar or hardware and coding",
+     "Word1":"plugged-in",
+     "Word2":"tech-savvy",
+     "Word3":"solution-oriented",
+     "Word4":"",
+     "Typical_CS_Day.":"finds bugs, writes code, problem solves",
+     "CS_ID":29,
+     "CODE":"014",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipNlHN84iWWoc6AjmrbT647BarVbT-fx_luYHnPs?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101A",
+     "Student_code":"049",
+     "Action":"She is either facing a computer screen that is doing doing programming and monitoring the action.  Alternately she is having her back to the screen and using her mind to control the actions on the screen.",
+     "Word1":"multi-tasking",
+     "Word2":"open-minded",
+     "Word3":"collaborative",
+     "Word4":"",
+     "Typical_CS_Day.":"programming, discussing, competing",
+     "CS_ID":30,
+     "CODE":"049",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"F",
+          "Positive_Image":"Neutral",
+          "Photo_link":"https://photos.google.com/share/AF1QipPaUCTZaOFKECPK92r-LWGlW_nhpy2SX1j9jdqqVSo4p6xqNd9rUH8gQjuf3uXUfg/photo/AF1QipP14icDdr0ny_1YBNpikmNd-Jjno_av1syqN2ya?key=Njdna3hQbF9ialFuSW55TkZ2cjZaY3R5dXlZN0R3"
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"bio/math",
+     "Action":"the computer scientist is programming and working on a computer",
+     "Word1":"logical",
+     "Word2":"detailed",
+     "Word3":"creative",
+     "Word4":"",
+     "Typical_CS_Day.":"communicating with other computer scientists, researching, writing code",
+     "CS_ID":31,
+     "CODE":"bio/math",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"014",
+     "Action":"examining an airport for spatial relationship research will be coding relationships between locations later",
+     "Word1":"advocate",
+     "Word2":"observant",
+     "Word3":"hard-working",
+     "Word4":"",
+     "Typical_CS_Day.":"researches, draws relationships, codes",
+     "CS_ID":32,
+     "CODE":"014",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"F",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"640009",
+     "Action":"writing code and editing code",
+     "Word1":"genius",
+     "Word2":"focused",
+     "Word3":"determined",
+     "Word4":"",
+     "Typical_CS_Day.":"drink coffee, play videogames, get frustrated",
+     "CS_ID":33,
+     "CODE":"640009",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"3",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"math",
+     "Action":"the two computer scientists are coding and collaborating",
+     "Word1":"resilient",
+     "Word2":"smart",
+     "Word3":"creative",
+     "Word4":"",
+     "Typical_CS_Day.":"code, check code, talk about ideas",
+     "CS_ID":34,
+     "CODE":"math",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":".",
+     "Action":"coding on a computer notebook in hand",
+     "Word1":"code",
+     "Word2":"python",
+     "Word3":"java",
+     "Word4":"",
+     "Typical_CS_Day.":"code, problem solve, research",
+     "CS_ID":35,
+     "CODE":".",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"635768",
+     "Action":"the individual is working on the computer on some sort of code this code can do many things for the company",
+     "Word1":"introverted",
+     "Word2":"intelligent",
+     "Word3":"systematic",
+     "Word4":"",
+     "Typical_CS_Day.":"works on code with programs, helps coworkers, works with numbers",
+     "CS_ID":36,
+     "CODE":"635768",
+     "Gender":".",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"963377",
+     "Action":"coding on a computer notebook in hand",
+     "Word1":"organized",
+     "Word2":"",
+     "Word3":"",
+     "Word4":"",
+     "Typical_CS_Day.":"coding",
+     "CS_ID":37,
+     "CODE":"963377",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"N/A",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"864339",
+     "Action":"working together solving a problem",
+     "Word1":"hardworking",
+     "Word2":"problem-solving",
+     "Word3":"intellectual",
+     "Word4":"",
+     "Typical_CS_Day.":"paired programming, solving problems, algorithms, apps",
+     "CS_ID":38,
+     "CODE":"864339",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"0",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"865366",
+     "Action":"the computer scientist is in an office they are typing",
+     "Word1":"smart",
+     "Word2":"creative",
+     "Word3":"techy",
+     "Word4":"",
+     "Typical_CS_Day.":"code, work, type",
+     "CS_ID":39,
+     "CODE":"865366",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"856171",
+     "Action":"they are sitting at a desk working on code",
+     "Word1":"logical",
+     "Word2":"creative",
+     "Word3":"intelligent",
+     "Word4":"",
+     "Typical_CS_Day.":"problem solves works with others works independently",
+     "CS_ID":40,
+     "CODE":"856171",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"MJ",
+     "Action":"this is a picture of me sitting in class using python, I am writing codes for labs and projects",
+     "Word1":"python",
+     "Word2":"coding",
+     "Word3":"labs",
+     "Word4":"",
+     "Typical_CS_Day.":"solves problems works with computers, codes",
+     "CS_ID":41,
+     "CODE":"MJ",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"F",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"851660",
+     "Action":"finding ways to solve problems small or large through computational methods",
+     "Word1":"code",
+     "Word2":"python",
+     "Word3":"algorithm",
+     "Word4":"",
+     "Typical_CS_Day.":"eat shower brush teeth",
+     "CS_ID":42,
+     "CODE":"851660",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"0",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"975193 undecided",
+     "Action":"sitting at a desk, typing on a computer, coding something in python",
+     "Word1":"technology",
+     "Word2":" problem-solving",
+     "Word3":"smart",
+     "Word4":"",
+     "Typical_CS_Day.":"codes, breaks down different problems, a lot of typing",
+     "CS_ID":43,
+     "CODE":"975193 undecided",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":".",
+     "Action":"they are collaborating with others to come up with a solution to a problem one of them explains a possible theoretical solution another codes it",
+     "Word1":"collaboration",
+     "Word2":"organized",
+     "Word3":"creative",
+     "Word4":"",
+     "Typical_CS_Day.":"code, pseudocode theoretical solution, collaborative with others",
+     "CS_ID":44,
+     "CODE":".",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"0",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"976766",
+     "Action":"she is teaching a class the class is an intro to computer science class",
+     "Word1":"coding",
+     "Word2":"debugging",
+     "Word3":"teaching",
+     "Word4":"",
+     "Typical_CS_Day.":"writes program, creates websit4es, reviews codes",
+     "CS_ID":45,
+     "CODE":"976766",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"F",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":".",
+     "Action":"The person is coding for their lab that is due tomorrow",
+     "Word1":"problem-solver",
+     "Word2":"hardworking",
+     "Word3":".",
+     "Word4":"",
+     "Typical_CS_Day.":"codes, debugs, codes",
+     "CS_ID":46,
+     "CODE":".",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":".",
+     "Action":"he/she is writing on a whiteboard this is planning for code that will be written later",
+     "Word1":"problem-solving",
+     "Word2":"troubleshooting",
+     "Word3":"planning",
+     "Word4":"",
+     "Typical_CS_Day.":"plan, code, debug",
+     "CS_ID":47,
+     "CODE":".",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"602154 math",
+     "Action":"thinking about the world the scientist is trying to come up with the solutions",
+     "Word1":"problem-solver",
+     "Word2":"patient",
+     "Word3":"has endurance",
+     "Word4":"",
+     "Typical_CS_Day.":"plans ahead, thinks of different ways to do the same things, problem solvers",
+     "CS_ID":48,
+     "CODE":"602154 math",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"B9158",
+     "Action":"writing code and debugging their old programs",
+     "Word1":"code",
+     "Word2":"clever",
+     "Word3":"functions",
+     "Word4":"",
+     "Typical_CS_Day.":"troubleshoot, write new code test out code",
+     "CS_ID":49,
+     "CODE":"B9158",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"F",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"",
+     "Action":"evaluating real world problems(traffic, shipping, warehouses() and evaluating how they could be made more efficient by usign computer science.",
+     "Word1":"practical",
+     "Word2":"visionary",
+     "Word3":"purposeful",
+     "Word4":"",
+     "Typical_CS_Day.":"observes the world, thinks of solutions to problems, communicates with clients",
+     "CS_ID":50,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"690 260",
+     "Action":"to be honest, Computer science is still just coding",
+     "Word1":"coding",
+     "Word2":"debugging",
+     "Word3":"celebrating",
+     "Word4":"",
+     "Typical_CS_Day.":"if the scientist is anything like me this person likes challenges, is hard working, and likes repetitive tasks and is happy about it.",
+     "CS_ID":51,
+     "CODE":"690 260",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"",
+     "Action":"coding a program to perform a task",
+     "Word1":"genius",
+     "Word2":"hardworking",
+     "Word3":"creative",
+     "Word4":"",
+     "Typical_CS_Day.":"debug, code, simplify and improve code",
+     "CS_ID":52,
+     "CODE":"",
+     "Gender":".",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101A",
+     "Student_code":"bio math",
+     "Action":"compute rsciencetist is programming and workign on a computer",
+     "Word1":"logical",
+     "Word2":"detailed",
+     "Word3":"creative",
+     "Word4":"",
+     "Typical_CS_Day.":"communicating with other computer scientists, researching, writing code",
+     "CS_ID":53,
+     "CODE":"bio math",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"0",
+          "Picture_Gender":"F",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The comp scientist is at work, probably past dinner time, working on a difficult code.",
+     "Word1":"Super smart",
+     "Word2":"math-lover",
+     "Word3":"efficient",
+     "Word4":"",
+     "Typical_CS_Day.":"They probably check codes that they’re making, debug codes, and work with their colleagues to solve difficult problems.",
+     "CS_ID":54,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"5",
+          "Picture_Gender":"N",
+          "Positive_Image":"N",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is looking at a computer screen and plugging in code.",
+     "Word1":"Intelligent",
+     "Word2":"Creative",
+     "Word3":"Attentive to every detail",
+     "Word4":"",
+     "Typical_CS_Day.":"Fix and create new code",
+     "CS_ID":55,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"In front of a computer, typing.",
+     "Word1":"Smart",
+     "Word2":"efficient",
+     "Word3":"Attention to detail",
+     "Word4":"",
+     "Typical_CS_Day.":"Computer stuff, family stuff, getting meals",
+     "CS_ID":56,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"3",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"He/she is programming and working with different programming languages. He/she could even be working on different softwares.",
+     "Word1":"Fast",
+     "Word2":"analytical",
+     "Word3":"Multi-tasking and good at time management",
+     "Word4":"",
+     "Typical_CS_Day.":"Debugging different programs, fixing and solving various IT related problems, running codes",
+     "CS_ID":57,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N/A",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"I see a computer scientist sitting in an office coding while testing if what their coding works or not. I see the computer scientist working in a production but also a guy who just makes programs.",
+     "Word1":"Coding",
+     "Word2":"Games",
+     "Word3":"Movies",
+     "Word4":"",
+     "Typical_CS_Day.":"Coding, animating, IT",
+     "CS_ID":58,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"Multitasking looking at multiple strands of code. He is either programming something or editing an already existing strand of code for errors.",
+     "Word1":"Smart",
+     "Word2":"detail-oriented",
+     "Word3":"Tech-saavy, modern, multi-tasker",
+     "Word4":"",
+     "Typical_CS_Day.":"Writes code, tests out functions, edits code, looks at software issues",
+     "CS_ID":59,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"3",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is typing down some letters and characters for code. They check to see if the code does what they want it to do and review the code again if it doesn’t.",
+     "Word1":"Fixing bugs",
+     "Word2":"Creating software/apps",
+     "Word3":"",
+     "Word4":"",
+     "Typical_CS_Day.":"Make sure everything is running correctly, fix problems that cause with app/program",
+     "CS_ID":60,
+     "CODE":"",
+     "Gender":"",
+     "image": { 
+          "Martin Score":"3",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is presenting a new software program he/she developed to increase efficiency of trading stocks. This program can also analyze price change in real time and give feedback to brokers.",
+     "Word1":"smart",
+     "Word2":"tech-saavy",
+     "Word3":"innovative",
+     "Word4":"",
+     "Typical_CS_Day.":"Write code, analyze quantitative risk, work in a team",
+     "CS_ID":61,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"0",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is sitting at a computer, typing and testing his code/program.",
+     "Word1":"code",
+     "Word2":"language",
+     "Word3":"",
+     "Word4":"",
+     "Typical_CS_Day.":"Learn new comp sci projects, learn new comp sci languages, work on an ongoing project",
+     "CS_ID":62,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"Using coding language to hack another computer (the russians?)",
+     "Word1":"Intelligent",
+     "Word2":"hands-on (hardware)",
+     "Word3":"task-oriented",
+     "Word4":"",
+     "Typical_CS_Day.":"Codes programs/devices/networks on forums/dark web; eats",
+     "CS_ID":63,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"Fixing a line code that needs rewriting because it’s not functioning well, making the entire program slow",
+     "Word1":"Loops",
+     "Word2":"Python",
+     "Word3":"Functions",
+     "Word4":"",
+     "Typical_CS_Day.":"Think a lot, writing code, problem-solving",
+     "CS_ID":64,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"Thinking deeply and writing code. Listening to music. Whiteboard with code is nearby.",
+     "Word1":"Logical thinker",
+     "Word2":"young",
+     "Word3":"tech-saavy",
+     "Word4":"",
+     "Typical_CS_Day.":"Works with bosses, writes/reviews code, solves problems",
+     "CS_ID":65,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is at his their desk on a normal day of work. They happen to be coding/analyzing data.",
+     "Word1":"code",
+     "Word2":"deskjob",
+     "Word3":"Web developer",
+     "Word4":"",
+     "Typical_CS_Day.":"Work on code, analyze code, collaborate with colleagues",
+     "CS_ID":66,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The scientist is typing quickly at a computer creating a software. He/she is focused and still.",
+     "Word1":"focused",
+     "Word2":"smart",
+     "Word3":"patient",
+     "Word4":"",
+     "Typical_CS_Day.":"debugs, creates software, collaborates with others to make other things",
+     "CS_ID":67,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"N/A",
+          "Picture_Gender":"N/A",
+          "Positive_Image":"N/A",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"Working at a desk, on a code",
+     "Word1":"Hard-working",
+     "Word2":"Problem solvers",
+     "Word3":"smart",
+     "Word4":"",
+     "Typical_CS_Day.":"Fix problems in different softwares, work with others to ensure it’s running something. Write new code",
+     "CS_ID":68,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"They are in a white lab coat in front of a big PC. They are also drinking coffee.",
+     "Word1":"smart",
+     "Word2":"hard-working",
+     "Word3":"creative",
+     "Word4":"",
+     "Typical_CS_Day.":"code, debug, create cool stuff in programs, design/make websites",
+     "CS_ID":69,
+     "CODE":"",
+     "Gender":"Male",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"He is looking. He sit a lot in a nice chair.",
+     "Word1":"coding",
+     "Word2":"glasses",
+     "Word3":"rich",
+     "Word4":"",
+     "Typical_CS_Day.":"codes, types, sits",
+     "CS_ID":70,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The scientist is encrypting knowledge, processing codes, or organizing data. He or she is responsible for managing large databases or systems.",
+     "Word1":"Intricate",
+     "Word2":"Misunderstood",
+     "Word3":"Language",
+     "Word4":"",
+     "Typical_CS_Day.":"Organizing data, reading code, overwatching programs",
+     "CS_ID":71,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"N/A",
+          "Picture_Gender":"N/A",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"They are sitting at a desk alone. I imagine they’re coding.",
+     "Word1":"Smart",
+     "Word2":"nerdy",
+     "Word3":"lonely",
+     "Word4":"",
+     "Typical_CS_Day.":"Code, research, network",
+     "CS_ID":72,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is in an office. They are coding at a desk.",
+     "Word1":"coding",
+     "Word2":"computer",
+     "Word3":"male-dominated",
+     "Word4":"",
+     "Typical_CS_Day.":"Works at an office, uses computer, hangs w/ friends",
+     "CS_ID":73,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"He is programming using binary",
+     "Word1":"startups",
+     "Word2":"robot",
+     "Word3":"genius",
+     "Word4":"",
+     "Typical_CS_Day.":"He is probably given a task to solve such as why some button on a website is redirecting incorrectly. Then he goes back in the code and looks for mistakes!",
+     "CS_ID":74,
+     "CODE":"",
+     "Gender":"",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is thinking about what would make peoples lives easier. In this case someone bought a present off line that they were looking for, and the computer scientist created the algorithm that made an add pop up for that item",
+     "Word1":"computers",
+     "Word2":"math",
+     "Word3":"efficiency",
+     "Word4":"",
+     "Typical_CS_Day.":"Code, learn, google. code, math",
+     "CS_ID":75,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"0",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"He is programming new software",
+     "Word1":"algorithms",
+     "Word2":"codes",
+     "Word3":"solving",
+     "Word4":"",
+     "Typical_CS_Day.":"Creates algorithms on the computer, cracks and solves codes",
+     "CS_ID":76,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist are the computer coding and designing different software.",
+     "Word1":"coding",
+     "Word2":"software",
+     "Word3":"applications",
+     "Word4":"",
+     "Typical_CS_Day.":"I believe there is collaboration in figuring out ways to create something useful for life or improving/building upon a software",
+     "CS_ID":77,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is coding intensely, sitting on a chair. They are on two different computers, multitasking.",
+     "Word1":"Quantitative",
+     "Word2":"Logical",
+     "Word3":"Creative",
+     "Word4":"",
+     "Typical_CS_Day.":"Program in a certain language, stares at a computer screen, eats food and drinks beverages",
+     "CS_ID":78,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"Sitting at a desk either in his home or in an office. He’s programming green text (code?) on a black screen.",
+     "Word1":"rigid",
+     "Word2":"Attention to detail",
+     "Word3":"creative",
+     "Word4":"",
+     "Typical_CS_Day.":"eats, problem solves, takes breaks",
+     "CS_ID":79,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"M",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The scientist is at a computer focused on the screen sitting up tall",
+     "Word1":"intelligent",
+     "Word2":"",
+     "Word3":"",
+     "Word4":"",
+     "Typical_CS_Day.":"codes, eats, sleeps",
+     "CS_ID":80,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist in the drawing is sitting at a desk in front of a computer. The scientist is working on the computer writing codes.",
+     "Word1":"coding",
+     "Word2":"Seditary",
+     "Word3":"meticulous, attentive",
+     "Word4":"",
+     "Typical_CS_Day.":"Writes code, analyzes things…",
+     "CS_ID":81,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"In this picture, the computer scientist is creating a program that analyzes customer interaction and makes suggestions about products the consumer may enjoy. The programmer works at Amazon.",
+     "Word1":"Engaged",
+     "Word2":"Pensive",
+     "Word3":"Analytical, creative",
+     "Word4":"",
+     "Typical_CS_Day.":"Collaborate with team members, fixes bugs that occur in the program",
+     "CS_ID":82,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"0",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"They are creating/typing new code. They are sitting",
+     "Word1":"Smart",
+     "Word2":"Education",
+     "Word3":"Detail-oriented",
+     "Word4":"",
+     "Typical_CS_Day.":"Code, sleep, eat",
+     "CS_ID":83,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is writing code for a program designed to help politics/medicine/social life.",
+     "Word1":"helpful",
+     "Word2":"important",
+     "Word3":"creative",
+     "Word4":"",
+     "Typical_CS_Day.":"code anything eat",
+     "CS_ID":84,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer sicentist is using a red marker and a white board to illustrate the next task they have to do. They are also sitting at a desk with a computer online.",
+     "Word1":"problem solver",
+     "Word2":"analyzer",
+     "Word3":"studious",
+     "Word4":"",
+     "Typical_CS_Day.":"Reads through code talks with other computer sientists writes aot about how they got their code.",
+     "CS_ID":85,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"sitting at a computer looking at typing code",
+     "Word1":"code",
+     "Word2":"computer",
+     "Word3":"optimizing",
+     "Word4":"",
+     "Typical_CS_Day.":"collaborator, write code, read code",
+     "CS_ID":86,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"I added another computer scientist because it is better to work with others. They are both working on creating a problem by typing",
+     "Word1":"smart",
+     "Word2":"creative",
+     "Word3":"successful",
+     "Word4":"",
+     "Typical_CS_Day.":"code, test, problem solve",
+     "CS_ID":87,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"0",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"Typing is a dark room",
+     "Word1":"smart",
+     "Word2":"patient",
+     "Word3":"hardworking",
+     "Word4":"",
+     "Typical_CS_Day.":"codes communicates code into English, talks with other coders",
+     "CS_ID":88,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"N/A",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"My comuter scientist is sitting at their desk coding. They have a rubber ducky just in case they need to verbally work out a problem. ",
+     "Word1":"Problem solving",
+     "Word2":"careful",
+     "Word3":"creative",
+     "Word4":"",
+     "Typical_CS_Day.":"code write out problems and work through them, test and debug code",
+     "CS_ID":89,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"N/A",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The computer scientist is finfing new ways to solve problems. He se is fininding new wasy to make exiting solutions more efficient.",
+     "Word1":"smart ",
+     "Word2":"effective",
+     "Word3":"efficient",
+     "Word4":"",
+     "Typical_CS_Day.":"codes, collaborates, reflects",
+     "CS_ID":90,
+     "CODE":"",
+     "Gender":"M",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Y",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"He or she is doing a bioinformatics project . The project is so hard that his/her eyes are blurring.",
+     "Word1":"smart",
+     "Word2":"asocial",
+     "Word3":"persistent",
+     "Word4":"",
+     "Typical_CS_Day.":"writing codes, listening to classical music, drinking coffee",
+     "CS_ID":91,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"3",
+          "Picture_Gender":"N",
+          "Positive_Image":"N",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"The comuter sientist is working at a desk on a computer writing code in an office",
+     "Word1":"hardworking",
+     "Word2":"tired",
+     "Word3":"smart",
+     "Word4":"",
+     "Typical_CS_Day.":"write programs, create presentatin on programs plays video games",
+     "CS_ID":92,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"They are typing our code and making sure things work. They look at problems adn solve them.",
+     "Word1":"creative ",
+     "Word2":"logical  ",
+     "Word3":"problem solver",
+     "Word4":"",
+     "Typical_CS_Day.":"check things are runnign correctly, no bugs /hacked programs, comping up with solutions to problems that popped up",
+     "CS_ID":93,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"2",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+},
+  {
+     "Semester":"Fall",
+     "Administration":"1",
+     "Class":"CS1101B",
+     "Student_code":"",
+     "Action":"Coding and debugging errors, sitting in front of a computer all day",
+     "Word1":"fast",
+     "Word2":"problem soving ",
+     "Word3":"analytical",
+     "Word4":"",
+     "Typical_CS_Day.":"running codes, creating programs, debugging errors",
+     "CS_ID":94,
+     "CODE":"",
+     "Gender":"F",
+     "image": { 
+          "Martin Score":"1",
+          "Picture_Gender":"N",
+          "Positive_Image":"Neutral",
+          "Photo_link":""
+}
+
+}
+]

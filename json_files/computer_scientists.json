@@ -1,0 +1,477 @@
+[
+ {
+   "CS_ID": 0,
+   "Know": "Y",
+   "Who": "A Turkish Siemens engineer"
+ },
+ {
+   "CS_ID": 1,
+   "Know": "Y",
+   "Who": "Family friend"
+ },
+ {
+   "CS_ID": 2,
+   "Know": "Y",
+   "Who": "Friends who study CS and a Professor at Dartmouth"
+ },
+ {
+   "CS_ID": 3,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 4,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 5,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 6,
+   "Know": "Y",
+   "Who": "My mom"
+ },
+ {
+   "CS_ID": 7,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 8,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 9,
+   "Know": "Y",
+   "Who": "my brother who codes for a financial technology firm"
+ },
+ {
+   "CS_ID": 10,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 11,
+   "Know": "Y",
+   "Who": "A Bowdoin IT person"
+ },
+ {
+   "CS_ID": 12,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 13,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 14,
+   "Know": "Y",
+   "Who": "a friend at the University of Michigan who works for an artificial intelligence company"
+ },
+ {
+   "CS_ID": 15,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 16,
+   "Know": "Y",
+   "Who": "a friend of mine who is a senior at NYU currently works for a law firm as a computer scientist for coding purposes"
+ },
+ {
+   "CS_ID": 17,
+   "Know": "Y",
+   "Who": "my brother"
+ },
+ {
+   "CS_ID": 18,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 19,
+   "Know": "Y",
+   "Who": "come CS major firends who worked this past summer"
+ },
+ {
+   "CS_ID": 20,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 21,
+   "Know": "Y",
+   "Who": "lots of friends who are CS majors"
+ },
+ {
+   "CS_ID": 22,
+   "Know": "Y",
+   "Who": "Family friends"
+ },
+ {
+   "CS_ID": 23,
+   "Know": "Y",
+   "Who": "I interned at a tech company this past summer and met many product developers designers IT systems engineers"
+ },
+ {
+   "CS_ID": 24,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 25,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 26,
+   "Know": "Y",
+   "Who": "my best friend's dad"
+ },
+ {
+   "CS_ID": 27,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 28,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 29,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 30,
+   "Know": "Y",
+   "Who": "my cousin"
+ },
+ {
+   "CS_ID": 31,
+   "Know": "Y",
+   "Who": "professor Doore"
+ },
+ {
+   "CS_ID": 32,
+   "Know": "Y",
+   "Who": "professor Doore"
+ },
+ {
+   "CS_ID": 33,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 34,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 35,
+   "Know": "Y",
+   "Who": "professor doore"
+ },
+ {
+   "CS_ID": 36,
+   "Know": "Y",
+   "Who": "my mother"
+ },
+ {
+   "CS_ID": 37,
+   "Know": "Y",
+   "Who": "grace hopper"
+ },
+ {
+   "CS_ID": 38,
+   "Know": "Y",
+   "Who": "professor doore"
+ },
+ {
+   "CS_ID": 39,
+   "Know": ".",
+   "Who": ""
+ },
+ {
+   "CS_ID": 40,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 41,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 42,
+   "Know": "Y",
+   "Who": "engineers I met in robotics club in high school"
+ },
+ {
+   "CS_ID": 43,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 44,
+   "Know": "Y",
+   "Who": "professor doore"
+ },
+ {
+   "CS_ID": 45,
+   "Know": "Y",
+   "Who": "professor doore"
+ },
+ {
+   "CS_ID": 46,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 47,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 48,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 49,
+   "Know": "Y",
+   "Who": "computer science majors at Bowdoin"
+ },
+ {
+   "CS_ID": 50,
+   "Know": "N",
+   "Who": ""
+ },
+ {
+   "CS_ID": 51,
+   "Know": "Y",
+   "Who": "friend is software engineer"
+ },
+ {
+   "CS_ID": 52,
+   "Know": "Y",
+   "Who": "older brother"
+ },
+ {
+   "CS_ID": 53,
+   "Know": "Y",
+   "Who": "Prof. Doore"
+ },
+ {
+   "CS_ID": 54,
+   "Know": "Yes",
+   "Who": "A student at Bowdoin minoring in CS"
+ },
+ {
+   "CS_ID": 55,
+   "Know": "Yes",
+   "Who": "A family friend - professor at University of North Texas"
+ },
+ {
+   "CS_ID": 56,
+   "Know": "Yes",
+   "Who": "Friend"
+ },
+ {
+   "CS_ID": 57,
+   "Know": "Yes",
+   "Who": "But I don’t exactly know what they do"
+ },
+ {
+   "CS_ID": 58,
+   "Know": "Yes",
+   "Who": "My parents"
+ },
+ {
+   "CS_ID": 59,
+   "Know": "Yes",
+   "Who": "My dad and two friends / ex teammates who have graduated"
+ },
+ {
+   "CS_ID": 60,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 61,
+   "Know": "Yes",
+   "Who": "My uncle"
+ },
+ {
+   "CS_ID": 62,
+   "Know": "Yes",
+   "Who": "My older brother"
+ },
+ {
+   "CS_ID": 63,
+   "Know": "Yes",
+   "Who": "Sibling"
+ },
+ {
+   "CS_ID": 64,
+   "Know": "Yes",
+   "Who": "Alumni at Okta and Google"
+ },
+ {
+   "CS_ID": 65,
+   "Know": "Yes",
+   "Who": "Friend’s dad"
+ },
+ {
+   "CS_ID": 66,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 67,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 68,
+   "Know": "Yes",
+   "Who": "Sister"
+ },
+ {
+   "CS_ID": 69,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 70,
+   "Know": "Yes",
+   "Who": "Older sister’s friends / bowdoin alum"
+ },
+ {
+   "CS_ID": 71,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 72,
+   "Know": "Yes",
+   "Who": "Early 20s African-American male friend"
+ },
+ {
+   "CS_ID": 73,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 74,
+   "Know": "Yes",
+   "Who": "Software engineers, robot programmers"
+ },
+ {
+   "CS_ID": 75,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 76,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 77,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 78,
+   "Know": "Yes",
+   "Who": "UX developer at a tech startup"
+ },
+ {
+   "CS_ID": 79,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 80,
+   "Know": "Yes",
+   "Who": "Friends that graduated last year in the field now."
+ },
+ {
+   "CS_ID": 81,
+   "Know": "",
+   "Who": ""
+ },
+ {
+   "CS_ID": 82,
+   "Know": "Yes",
+   "Who": "My brother and cousin"
+ },
+ {
+   "CS_ID": 83,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 84,
+   "Know": "Yes",
+   "Who": "other students"
+ },
+ {
+   "CS_ID": 85,
+   "Know": "Yes",
+   "Who": "Teacher/Professor"
+ },
+ {
+   "CS_ID": 86,
+   "Know": "Yes",
+   "Who": "My brother"
+ },
+ {
+   "CS_ID": 87,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 88,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 89,
+   "Know": "Yes",
+   "Who": "My friend"
+ },
+ {
+   "CS_ID": 90,
+   "Know": "Yes",
+   "Who": "my brother"
+ },
+ {
+   "CS_ID": 91,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 92,
+   "Know": "No",
+   "Who": ""
+ },
+ {
+   "CS_ID": 93,
+   "Know": "Yes",
+   "Who": ""
+ },
+ {
+   "CS_ID": 94,
+   "Know": "No",
+   "Who": ""
+ }
+]
